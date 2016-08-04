@@ -1,0 +1,64 @@
+_repo: A-House-to-Let_2324
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+  - agent_name: Gaskell, Elizabeth Cleghorn
+    aliases:
+    - Gaskell, Mrs.
+    - Gaskell, Elizabeth Cleghorn Stevenson
+    - Gaskell, E. C. (Elizabeth Cleghorn)
+    - Stevenson, Elizabeth
+    - Mills, Cotton Mather
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '220'
+    url: http://www.gutenberg.org/2009/agents/220
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Gaskell
+  - agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+  - agent_name: Procter, Adelaide Anne
+    aliases:
+    - Proctor, Adelaide Anne
+    - Procter, Adelaide A. (Adelaide Anne)
+    - Berwick, Mary
+    birthdate: 1825
+    deathdate: 1864
+    gutenberg_agent_id: '867'
+    url: http://www.gutenberg.org/2009/agents/867
+    wikipedia: http://en.wikipedia.org/wiki/Adelaide_Anne_Procter
+description: A fantastic experiment in literary collaboration by Charles Dickens,
+  Wilkie Collins, Elizabeth Gaskell and Adelaide Ann Procter. Dickens wrote the outline
+  for this short Christmas story, as well as the chapter 'Going into Society' and
+  co-writing the first and last chapters with fellow author Wilkie Collins, who also
+  contributed the chapter 'Trottle's Report'. Gaskell and Proctor provided the chapters
+  'The Manchester Marriage' and 'Three Evenings in the House', respectively.
+gutenberg_issued: '2000-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2324'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- GITenberg
+tableOfContents: Over the way / Charles Dickens and Wilkie Collins -- The Manchester
+  marriage / Elizabeth Cleghorn Gaskell -- Going into society / Charles Dickens --
+  Three evenings in the house / Adelaide Anne Procter -- Trottle's report / Wilkie
+  Collins -- Let at last / Charles Dickens and Wilkie Collins.
+title: A House to Let
+url: http://www.gutenberg.org/ebooks/2324
