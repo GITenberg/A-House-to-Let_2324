@@ -1,5 +1,8 @@
 _repo: A-House-to-Let_2324
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Collins, Wilkie
@@ -44,6 +47,8 @@ description: A fantastic experiment in literary collaboration by Charles Dickens
   co-writing the first and last chapters with fellow author Wilkie Collins, who also
   contributed the chapter 'Trottle's Report'. Gaskell and Proctor provided the chapters
   'The Manchester Marriage' and 'Three Evenings in the House', respectively.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2324#A-House-to-Let
 gutenberg_issued: '2000-09-01'
 gutenberg_type: Text
 identifiers:
